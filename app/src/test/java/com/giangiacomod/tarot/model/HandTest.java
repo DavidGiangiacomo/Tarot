@@ -1,5 +1,5 @@
 package com.giangiacomod.tarot.model;
 
-public class Card {
+public class HandTest {
 
 }
