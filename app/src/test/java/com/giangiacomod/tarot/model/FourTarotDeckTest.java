@@ -1,5 +1,7 @@
 package com.giangiacomod.tarot.model;
 
+import com.giangiacomod.tarot.model.card.Card;
+
 import org.junit.Before;
 import org.junit.Test;
 
